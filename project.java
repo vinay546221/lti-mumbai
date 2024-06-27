@@ -1,4 +1,3 @@
 hello good morning
 hi
-hello
-hi
+this is laptop
