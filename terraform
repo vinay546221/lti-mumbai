@@ -1,6 +1,7 @@
 provider "aws" {
   region     = "ap-southeast-1"
 }
+#security group
 resource "aws_security_group" "web_access" {
         name = "web_access"
         description = "allow ssh and http"
